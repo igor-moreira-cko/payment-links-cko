@@ -11,7 +11,7 @@
   <p align="center">
     A very simple HTML and JavaScript example for getting Payments links
     <br />
-    <a href="https://www.checkout.com/docs/integrate/payment-links-page"><strong>Explore the Checkout.com Hosted Payments docs »</strong></a>
+    <a href="https://www.checkout.com/docs/integrate/payment-links"><strong>Explore the Checkout.com Payment Links docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/igor-moreira-cko/payment-links-cko/issues">Report Bug</a>

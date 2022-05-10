@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const axios = require('axios');
 
-const secretKey = process.env.SECRET_KEY;
+const secretKey = 'Enter your Secret Key';
 
 const path = require('path');
 app.use(express.static(path.join(__dirname, '../frontend')));
@@ -43,7 +43,6 @@ app.post('/', (req, res) => {
         });
 
 })
-const port = 3000
 
 const PORT = 5000;
 app.listen(PORT, console.log(`App listening on http://localhost:${PORT}`));
